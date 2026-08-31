@@ -1,0 +1,6 @@
+interface:
+  display_name: "human-short-video-writing"
+  short_description: "用真实材料写可论证、有活人感和观众收益的中文观点口播"
+  default_prompt: "使用 $human-short-video-writing 把我的选题和材料写成一条能直接口播、观点清楚且事实可靠的中文短视频稿。"
+policy:
+  allow_implicit_invocation: true
