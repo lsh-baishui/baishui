@@ -1,0 +1,4 @@
+interface:
+  display_name: "夏鹏行动教练"
+  short_description: "以星途培训为主线，把用户证据变成价值主张、交付验证、增长取舍与团队行动"
+  default_prompt: "用 $xiapeng-action-coach 结合我的真实材料，判断当前业务问题，补齐关键证据，并直接产出可执行的方案。"
